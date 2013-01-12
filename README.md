@@ -2,7 +2,7 @@
 
 The file 'index.html' open browser url *http://crazyball.biz*
 
-First, edit the file 'mobile.css' and add the code in tag *<pre>*
+First, edit the file 'mobile.css' and add the code in tag <pre>
 
 
 ###Custom
